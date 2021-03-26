@@ -1,4 +1,4 @@
-# NHS AI Lab Skunkworks’ project: Data Lens
+# [NHS AI Lab Skunkworks’ project: Data Lens](https://www.nhsx.nhs.uk/ai-lab/explore-all-resources/develop-ai/data-lens-a-fast-access-data-search-in-multiple-languages/)
 
 > A pilot project for the NHS AI Lab Skunkworks team, Data Lens brings together information about multiple databases, providing a fast-access search in multiple languages
 
