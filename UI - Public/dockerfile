@@ -1,0 +1,33 @@
+######################################
+# Build the front end
+######################################
+FROM node:14-alpine as frontendBuilder
+
+COPY frontend/package*.json ./
+RUN npm install
+
+COPY frontend/ ./
+RUN npm run build
+
+######################################
+# Build the back end
+######################################
+
+FROM node:14-alpine as backendBuilder
+
+COPY backend/package*.json ./
+RUN npm install
+
+######################################
+# Build the running container image
+######################################
+
+FROM node:14-alpine
+
+COPY --from=frontendBuilder ./dist /app/dist
+COPY --from=backendBuilder ./node_modules /app/node_modules
+COPY ./backend/ /app/
+
+WORKDIR /app
+
+CMD ["npm", "start"]

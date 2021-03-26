@@ -1,0 +1,63 @@
+POST _template/com205_typeahead
+{
+  "order": 0,
+  "index_patterns": [
+    "c205-typeahead"
+  ],
+  "settings": {
+    "number_of_replicas": 0,   
+    "analysis": {
+        "char_filter": {
+          "com205_char_filter": {
+            "type": "mapping",
+            "mappings": [
+              "& => _and_",
+              "a and e => a_and_e"
+            ]
+          }
+        },
+        "filter": {
+          "com205_synonym": {
+            "type": "synonym_graph",
+            "synonyms_path": "analysis/com205_synonyms.txt",
+            "updateable": "true"
+          }
+        },      
+      "analyzer": {
+        "typeahead_analyzer": {
+         "char_filter": [
+              "html_strip",
+              "com205_char_filter"
+            ],
+            "filter": [
+              "lowercase"
+            ],          
+          "tokenizer": "typeahead_tokenizer"
+        }
+      },
+      "tokenizer": {
+        "typeahead_tokenizer": {
+          "type": "edge_ngram",
+          "min_gram": 3,
+          "max_gram": 20,
+          "token_chars": [
+            "letter",
+            "digit",
+            "custom"
+          ],
+          "custom_token_chars": [
+            "&"
+          ]
+        }
+      }
+    }
+  },
+  "mappings": {
+    "properties": {
+        "title": {
+            "analyzer": "typeahead_analyzer",
+            "type": "text"
+        }
+    }
+  }
+}

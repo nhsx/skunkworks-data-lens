@@ -1,0 +1,12 @@
+PUT _ingest/pipeline/remove-opennlp-pipeline
+{
+  "description": "A pipeline to do remove the entity from extraction",
+  "processors": [
+    {
+      "remove": {
+        "field": "entities.locations",
+        "ignore_failure" : true
+      }
+    }    
+  ]
+}

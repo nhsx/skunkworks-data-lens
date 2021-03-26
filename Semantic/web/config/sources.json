@@ -1,0 +1,45 @@
+{
+    "NHS Digital": {
+        "readIndex": "com205-nhs-digital",
+        "writeIndex": "com205-nhs-digital",
+        "source": "NHS Digital",
+        "searchableFields": ["title", "introduction", "description", "key_findings.strings"]
+    },
+    "NHS England Databases": {
+        "readIndex": "com205-nhs-england-databases",
+        "writeIndex": "com205-nhs-england-databases",
+        "source": "NHS England NCDR Reference Library",
+        "searchableFields": ["title", "db_title", "db_description", "table_description", "table_name"]
+    },
+    "NHS England Catalogue": {
+        "readIndex": "com205-nhs-england-data-catalogue",
+        "writeIndex": "com205-nhs-england-data-catalogue",
+        "source": "NHS Data Catalogue",
+        "searchableFields": ["title", "notes"]
+    },
+    "Fingertips": {
+        "readIndex": "com205-fingertips",
+        "writeIndex": "com205-fingertips",
+        "source": "PHE Fingertips",
+        "searchableFields": ["title", "definition", "rationale", "caveats", "denomdefinition", "countdefinition"]
+    },
+    "ONS Data": {
+        "readIndex": "com205-ons",
+        "writeIndex": "com205-ons",
+    	"source": "Office for National Statistics",
+    	"searchableFields": ["title", "description"]
+    },
+    "HDR Data": {
+    	"readIndex": "com205-hdr",
+    	"writeIndex": "com205-hdr",
+    	"source": "Health Data Innovation Gateway",
+    	"searchableFields": ["title", "description"]
+    },
+    "NHS Digital Data Collections": {
+    	"readIndex": "com205-nhs-digital-data-collections",
+    	"writeIndex": "com205-nhs-digital-data-collections",
+    	"source": "NHS Digital",
+    	"searchableFields": ["title", "introduction", "Background to the collection", "The in-scope definition is",
+            "guidance"]
+    }
+}

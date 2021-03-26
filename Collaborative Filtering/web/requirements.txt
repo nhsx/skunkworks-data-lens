@@ -1,0 +1,9 @@
+certifi==2019.11.28
+elasticsearch==7.0.4
+Flask==1.1.1
+flask-restplus==0.11.0
+pandas==1.2.1
+textdistance==4.2.0
+Werkzeug==0.15.6
+numpy==1.18.5
+requests==2.25.1

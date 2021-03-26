@@ -1,0 +1,11 @@
+elasticsearch.hosts: ["https://elastic.datalens.naimuri.dev:9200"]
+elasticsearch.ssl.certificate: /etc/kibana/certs/fullchain.pem
+elasticsearch.ssl.key: /etc/kibana/certs/privkey.pem
+
+server.maxPayloadBytes: 10485760
+
+server.ssl.enabled: true
+server.ssl.certificate: /etc/kibana/certs/fullchain.pem
+server.ssl.key: /etc/kibana/certs/privkey.pem
+
+newsfeed.enabled: false

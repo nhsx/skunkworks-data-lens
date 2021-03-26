@@ -1,0 +1,49 @@
+[
+  {
+    "csv": {
+      "field": "message",
+      "target_fields": [
+        "title",
+        "source",
+        "source_url",
+        "description",
+        "dataset",
+        "cube_measure_group",
+        "coverage_start_date",
+        "coverage_end_date",
+        "latest_available_date",
+        "measure_group_notes",
+        "dependencies",
+        "import_specification",
+        "data_source",
+        "data_source_report",
+        "data_filename",
+        "data_file_notes",
+        "source_format",
+        "frequency",
+        "triggered_by_provider_submission_deadline",
+        "triggered_by_commissioner_sign_off_deadline",
+        "triggered_by_hard_deadline",
+        "triggered_by_data_publication",
+        "also_loaded_into_SIP",
+        "same_SEFT_file_for_SIP",
+        "timetable"
+      ],
+      "ignore_missing": false
+    }
+  },
+  {
+    "date": {
+      "field": "coverage_start_date",
+      "timezone": "Europe/London",
+      "formats": [
+        "dd/MM/yyyy"
+      ]
+    }
+  },
+  {
+    "remove": {
+      "field": "message"
+    }
+  }
+]

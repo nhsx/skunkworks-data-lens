@@ -1,0 +1,57 @@
+GET com205-*/_search
+{
+    "size": 10,
+     "query": {
+        "bool": {
+          "should": [
+            {
+                   "query_string": {
+                    "query": "cancer waiting times",
+                    "type": "best_fields",
+                    "minimum_should_match": "75%",
+                    "default_operator": "OR",
+                    "fields": ["title^5","*"],
+                    "analyze_wildcard": true,
+                    "boost": 0.5
+                }
+            },
+            {
+                    "query_string": {
+                    "query": "cancer waiting times",
+                    "type": "best_fields",
+                    "default_operator": "AND",
+                    "fields": ["title^5","*"],
+                    "analyze_wildcard": true
+                }
+            },
+            {
+                   "query_string": {
+                    "query": "cancer waiting times",
+                    "type": "best_fields",
+                    "phrase_slop": 0, 
+                    "default_operator": "AND",
+                    "fields": ["title^5","*"],
+                    "analyze_wildcard": true,
+                    "boost": 2
+                }
+            }
+          ]
+        }
+      },
+  "_source": ["title","source", "source_url", "ingest.timestamp"], 
+  "aggs": {
+    "source_agg": {
+      "terms": {
+        "field": "source",
+        "size": 50
+      }
+    },
+    "url_agg": {
+      "terms": {
+        "field": "source_url",
+        "size": 50
+      }
+    }    
+  }, 
+  "highlight": {"fields": {"*": { "pre_tags" : ["<b class='highlighted-text'>"], "post_tags" : ["</b>"] }}} 
+}

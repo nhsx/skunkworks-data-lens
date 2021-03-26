@@ -1,0 +1,21 @@
+version: '3.7'
+services:
+  web:
+    build: ./web
+    ports:
+      - "80:80"
+    environment:
+      - DATALENS_CONFIG
+      - ELASTICSEARCH_ADDRESS
+      - DATALENS_SEARCH_SIZE
+      - PATH_MODEL
+      - DATALENS_MINIMUM_ZSCORE
+      - ELASTICSEARCH_USERNAME
+      - ELASTICSEARCH_PASSWORD
+    volumes:
+      - "${DATALENS_CONFIG}:/config"
+      - "${DATALENS_CONFIG}/sources.json:/config/sources.json"
+      - "${PATH_MODEL}:/model"
+      - "${PATH_MODEL}/config.json:/model/config.json"
+      - "${PATH_MODEL}/pytorch_model.bin:/model/pytorch_model.bin"
+      - "${PATH_MODEL}/vocab.txt:/model/vocab.txt"

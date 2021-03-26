@@ -1,0 +1,57 @@
+{
+  "id": "c205-summary-summary",
+  "source": {
+    "index": [
+      "com205-*"
+    ],
+    "query": {
+      "match_all": {}
+    }
+  },
+  "dest": {
+    "index": "c205-summary"
+  },
+  "frequency": "1m",
+  "sync": {
+    "time": {
+      "field": "@timestamp",
+      "delay": "60s"
+    }
+  },
+  "pivot": {
+    "group_by": {
+      "source": {
+        "terms": {
+          "field": "source"
+        }
+      },
+      "source_url": {
+        "terms": {
+          "field": "source_url"
+        }
+      }
+    },
+    "aggregations": {
+      "ingest.timestamp.value_count": {
+        "value_count": {
+          "field": "ingest.timestamp"
+        }
+      },
+      "ingest.timestamp.min": {
+        "min": {
+          "field": "ingest.timestamp"
+        }
+      },
+      "ingest.timestamp.max": {
+        "max": {
+          "field": "ingest.timestamp"
+        }
+      }
+    }
+  },
+  "settings": {
+    "max_page_search_size": 500
+  },
+  "version": "7.10.0",
+  "create_time": 1612262632685
+}

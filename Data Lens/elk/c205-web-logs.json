@@ -1,0 +1,19 @@
+PUT c205-web-logs
+{
+  "settings": {
+    "number_of_replicas": 0
+  },
+  "mappings": {
+    "properties": {
+      "userID": {
+        "type": "keyword"
+      },
+      "searchTerm": {
+        "type": "keyword"
+      },      
+      "searchResults": {
+        "type": "keyword"
+      }
+    }
+  }
+}

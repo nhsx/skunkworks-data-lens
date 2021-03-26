@@ -1,0 +1,181 @@
+{
+  "ipcMode": null,
+  "executionRoleArn": "arn:aws:iam::695005377056:role/ecsTaskExecutionRole",
+  "containerDefinitions": [
+    {
+      "dnsSearchDomains": null,
+      "environmentFiles": null,
+      "logConfiguration": {
+        "logDriver": "awslogs",
+        "secretOptions": null,
+        "options": {
+          "awslogs-group": "/ecs/datalens-semantic-taskdef",
+          "awslogs-region": "eu-west-2",
+          "awslogs-stream-prefix": "ecs"
+        }
+      },
+      "entryPoint": [],
+      "portMappings": [
+        {
+          "hostPort": 80,
+          "protocol": "tcp",
+          "containerPort": 80
+        },
+        {
+          "hostPort": 8080,
+          "protocol": "tcp",
+          "containerPort": 8080
+        },
+        {
+          "hostPort": 443,
+          "protocol": "tcp",
+          "containerPort": 443
+        },
+        {
+          "hostPort": 8443,
+          "protocol": "tcp",
+          "containerPort": 8443
+        },
+        {
+          "hostPort": 5000,
+          "protocol": "tcp",
+          "containerPort": 5000
+        }
+      ],
+      "command": [],
+      "linuxParameters": null,
+      "cpu": 0,
+      "environment": [
+        {
+          "name": "DATALENS_CONFIG",
+          "value": "/web/config"
+        },
+        {
+          "name": "DATALENS_MODEL_NAME",
+          "value": "model"
+        },
+        {
+          "name": "DATALENS_SEARCH_SIZE",
+          "value": "1000"
+        },
+        {
+          "name": "ELASTICSEARCH_ADDRESS",
+          "value": "https://elastic.datalens.naimuri.dev:9200/"
+        },
+        {
+          "name": "PATH_MODEL",
+          "value": "model"
+        },
+        {
+            "name": "DATALENS_MINIMUM_ZSCORE",
+            "value": "1.8"
+        }
+      ],
+      "resourceRequirements": null,
+      "ulimits": null,
+      "dnsServers": null,
+      "mountPoints": [],
+      "workingDirectory": null,
+      "secrets": null,
+      "dockerSecurityOptions": null,
+      "memory": null,
+      "memoryReservation": 4096,
+      "volumesFrom": [],
+      "stopTimeout": null,
+      "image": "695005377056.dkr.ecr.eu-west-2.amazonaws.com/datalens-semantic_web:latest",
+      "startTimeout": null,
+      "firelensConfiguration": null,
+      "dependsOn": null,
+      "disableNetworking": null,
+      "interactive": null,
+      "healthCheck": null,
+      "essential": true,
+      "links": [],
+      "hostname": null,
+      "extraHosts": null,
+      "pseudoTerminal": null,
+      "user": null,
+      "readonlyRootFilesystem": null,
+      "dockerLabels": null,
+      "systemControls": null,
+      "privileged": null,
+      "name": "datalens-semantic"
+    }
+  ],
+  "placementConstraints": [],
+  "memory": "4096",
+  "taskRoleArn": "arn:aws:iam::695005377056:role/ecsTaskExecutionRole",
+  "compatibilities": [
+    "EC2",
+    "FARGATE"
+  ],
+  "taskDefinitionArn": "arn:aws:ecs:eu-west-2:695005377056:task-definition/datalens-semantic-taskdef:7",
+  "family": "datalens-semantic-taskdef",
+  "requiresAttributes": [
+    {
+      "targetId": null,
+      "targetType": null,
+      "value": null,
+      "name": "com.amazonaws.ecs.capability.logging-driver.awslogs"
+    },
+    {
+      "targetId": null,
+      "targetType": null,
+      "value": null,
+      "name": "ecs.capability.execution-role-awslogs"
+    },
+    {
+      "targetId": null,
+      "targetType": null,
+      "value": null,
+      "name": "com.amazonaws.ecs.capability.ecr-auth"
+    },
+    {
+      "targetId": null,
+      "targetType": null,
+      "value": null,
+      "name": "com.amazonaws.ecs.capability.docker-remote-api.1.19"
+    },
+    {
+      "targetId": null,
+      "targetType": null,
+      "value": null,
+      "name": "com.amazonaws.ecs.capability.docker-remote-api.1.21"
+    },
+    {
+      "targetId": null,
+      "targetType": null,
+      "value": null,
+      "name": "com.amazonaws.ecs.capability.task-iam-role"
+    },
+    {
+      "targetId": null,
+      "targetType": null,
+      "value": null,
+      "name": "ecs.capability.execution-role-ecr-pull"
+    },
+    {
+      "targetId": null,
+      "targetType": null,
+      "value": null,
+      "name": "com.amazonaws.ecs.capability.docker-remote-api.1.18"
+    },
+    {
+      "targetId": null,
+      "targetType": null,
+      "value": null,
+      "name": "ecs.capability.task-eni"
+    }
+  ],
+  "pidMode": null,
+  "requiresCompatibilities": [
+    "FARGATE"
+  ],
+  "networkMode": "awsvpc",
+  "cpu": "1024",
+  "revision": 7,
+  "status": "ACTIVE",
+  "inferenceAccelerators": null,
+  "proxyConfiguration": null,
+  "volumes": []
+}

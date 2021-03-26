@@ -1,0 +1,60 @@
+PUT /_index_template/c205-web-analytics-template
+{
+  "index_patterns": [
+    "c205-web-analytics*"
+  ],
+  "data_stream": {},
+  "priority": 100,
+  "template": {
+    "settings": {
+      "index.lifecycle.name": "c205-web-analytics-policy",
+      "number_of_replicas": 0
+    },
+    "mappings": {
+      "dynamic_templates": [
+        {
+          "strings": {
+            "match_mapping_type": "string",
+            "mapping": {
+              "type": "keyword"
+            }
+          }
+        }
+      ],
+      "properties": {
+        "user_id": {
+          "type": "keyword"
+        },
+        "search_timestamp": {
+          "type": "date"
+        },
+        "index_name": {
+          "type": "keyword"
+        },
+        "document_id": {
+          "type": "keyword"
+        },
+        "search_result_ranking": {
+          "type": "integer"
+        },
+        "details_click_through_order": {
+          "type": "integer"
+        },
+        "external_click_through": {
+          "type": "boolean"
+        },
+        "filters": {
+          "type": "object",
+          "properties": {
+            "filter_field": {
+              "type": "keyword"
+            },
+            "filter_value": {
+              "type": "keyword"
+            }
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,1635 @@
+smoke, cancer, cigarette, cigars
+alcohol, ethanol, liquor
+a&c, administrative clerical, administrative & clerical
+a&e, accident emergency, accident & emergency
+ac, before meals
+am, morning
+aaa, abdominal aortic aneurysm
+aac, accelerated access collaborative
+aac, augmented alternative communication
+aac, advisory appointments committees
+aac, appointments advisory committee
+aace, association ambulance chief executives
+aagbi, association anaesthetistsgreat britain ireland
+aand, allownatural death
+aar, accelerated access review, after action review, accelerated access review
+aau, acute admissions unit, acute assessment unit
+abhi, association british healthcare industries
+abpi, association british pharmaceutical industry
+ac, audit commission
+acad, ambulatory care diagnostic unit
+acc, acute care collaboration
+accea, advisory committee clinical excellence awards
+acdp, advisory committee dangerous pathogens
+acevo, association chief executivesvoluntary organisations
+acg, adjusted clinical group
+aco, accountable care organisation
+acp, accountable care partnerships
+acp, advanced clincal practice
+acp, advanced care plan
+acra, advisory committee resource allocation
+acs, accountable care systems
+acs, acute cardiac syndrome
+acs, adult care services
+acs, ambulatory care-sensitive
+acu, ambulatory care unit
+ad, alzheimer’s disease
+adass, association directors adult social services
+adcs, association directors children's services
+adhd, attention deficit hyperactivity disorder
+adm, assistant divisional manger
+aec, ambulatory emergency care
+aecu, ambulatory emergency care unit
+af, atrial fibrillation
+afc, agenda change
+afpp, association perioperative practice
+agnss, advisory group national specialised services
+ags, annual governance statement
+ahcs, academy healthcare science
+ahp, allied health professional
+ahsc, academic health science centre
+ahsn, academic health science network
+aie, analysis impact equality
+air, annual innovation report
+ais, abbreviated injury scale
+aki, acute kidney injury
+alb, arm’s-length body
+ale, auditors’ local evaluation
+alto, arm's-length trading organisation
+am, assembly member
+amd, age related macular degeneration, age-related macular degeneration
+ame, annually managed expenditure
+amhp, approved mental health professional
+amr, antimicrobial resistance
+amu, acute medical unit
+amu, alongside midwifery unit
+ana, apprentice nursing associate
+anp, advanced nurse practitioner
+antt, aseptic non touch technique
+ao1, assistance 1
+aomrc, academy medical royal colleges
+ap, assistant practitioner
+apb, autism partnership board
+apc, admitted patient care
+apl, adjustment pressure-limiting
+apms, alternative provider medical services
+aps, active people survey
+apt, anatomical pathology technologist
+aptt, activated partial thromboplastin time
+aqi, ambulance quality indicator
+aqma, air quality management area
+aqn, activity quert notice
+aqp, any qualified provider
+aqua, advancing quality alliance
+ar, aortic regurgitation
+arcp, annual review competency progression
+ards, acute respiratory distress syndrome
+asa, american society anesthesiologists classification
+asb, adult skills budget
+asb, anti-social behaviour
+asc, adult social care
+ascof, adult social care outcomes framework
+ascot, adult social care outcomes toolkit
+asd, autistic spectrum disorder
+asdr, age-standardised death rate
+asg, allocations steering group
+asi, appointment slot issues
+asn, ambulance service network
+aspc, association surgeons primary care
+aspd, anti-social personality disder
+aspih, association simulated practice healthcare
+asq, ages stages questionnaire
+assking, assessment surface skin inspection keep moving incontinence nutrition guidance
+atmist, age time onset mechanism
+atmist, age time medical complaint injuries
+ato, assistant technical officer
+ato, assistant theatre operator
+avr, accredited voluntary registers
+awd, agency workers directive
+awr, agency workers regulations
+b&h, bullying harassment, bullying & harassment
+bds, 2 timesday
+bid, bd, twiceday, twice daily, 2 times daily
+baa, british academy audiology
+baas, burden advice assessment service
+bads, british association day surgery
+baf, board assurance framework
+baf,board assurance framework
+bame, black, asian minority ethnic
+bamm, british association medical managers
+barema, british anaesthetic respirtory equipment manufacturers' association
+basics, british association immediate care
+bau, business usual, business continuity
+bc, business continuity
+bcf, better care fund
+bcp, business continuity plan
+bcs, british crime survey
+bda, british dental association
+besd, behavioural emotional social difficulties
+bgaf, board governance assurance framework
+bhiva, british hiv association
+bia, business impact analysis
+biba, brought ambulance
+bis,  business innovation skills
+bise, business integrated standards executive
+bka, before knee amputation, below knee amputation
+bls, basic life support
+bma, british medical association
+bme, black ethnic minorities, black minority ethnic
+bmi, body mass index
+bn, birth notification
+bnf, british national formulary
+bno, bowelsopen
+bo, bowels open
+bp, blood pressure
+bpd, borderline personality disorder
+bps, british psychological society
+bpt, best practice tariff
+brc, biomedical research centre
+bre, building research establishment
+bromi, better regulation medicines initiative
+bru, biomedical research unit
+bsa, british society audiology
+bsa, nhs business services authority
+bsi, bloodstream infection
+btbc, better training better care
+c section, caesarean section
+c-cbt, computerised cognitive behavioural therapy
+c/c, chief complaint
+c4c, case change
+caa, comprehensive area assessment
+cab, c&b, choose book, choose & book
+cabg, coronary artery bypass graft
+cag, clinical academic group
+cag, confidentiality advisory group
+cag, clinical advisory group
+caje, computer aided job evaluation
+cam, cancer awareness measure
+camh, child adolescent mental health
+camhs, child adolescent mental health service, child adolescent mental health services
+cap, community acquired pneumonia
+capa, clinical procurement assurance
+capd, continuous ambulatory peritoneal dialysis
+capex, capital expenditure
+caru, clinical audit research unit
+cas, central alert system
+cash, contraception sexual health clinics
+cat, computerised axial tomography
+cat, crisis assessment treatment
+catch, central allocation team care health
+cau, child adolescent unit
+cau, clinical assessment unit
+cauti, catheter associated urinary tract infection
+cbrne, chemical biological radiological nuclear explosive hazards
+cbt, cognitive behavioural therapy
+cc, care coordinator
+cc, community care
+ccg, clinical commissioning group, clinical commissioning groups
+cch, care closer home
+ccio, chief clinical information officer
+ccort, clinical care outreach team
+ccp, co-operation competition panel
+ccp, critical care paramedic
+ccs, crown commercial service
+cct, community care team
+ccu, coronary care unit
+ccu, critical care unit
+cd, clinical director
+cd, clostridium difficile
+cd, controlled drugs
+cdf, cancer drugs fund
+cdg, clinical design group
+cdmi, clinical digital maturity index
+cdo, chief dental officer
+cds, commissioning data sets
+cdu, clinical decision unit
+ce, customer engagement team
+cea, clinical excellence awards
+ceac, clinical excellence awards committee
+cem, college emergency medicine
+cemach, confidential enquiry maternal child health
+ceo, chief executive officer
+cep, centre evidence-based purchasing
+cepn, community education provider network
+ces, care episode service
+cet, clinical evaluation team
+cetr, care education treatment review
+cfh, connecting health
+cfo chief, financial officer
+cfpg, capital finance planning group
+cfpp, choice framework local policy procedures
+cfps, centre public scrutiny
+cfr, community first responder, community first responders
+cfwi, centre workfce intelligence
+cg, clinical governance
+cgas, children's global assessment scale
+chc, community health council
+chc, continuing health care, nhs continuing healthcare
+chcp, community health care partnership
+chd, coronary heart disease
+chi, child health interoperability
+chi, community health index
+chimat, child maternal health observatory
+chis, child health information services
+chit, care home intervention team
+chms, community health miscellaneous services
+cho, child health organisation
+chp, community health partnership
+chppd, care hours per patient day
+chre, council healthcare regulatory excellence
+chs, croydon health services
+ci, commissioning intentions
+cibh, change bowel habits
+cic, community interest company
+cimp, clinical information management programme
+cin, children need
+cio, chief information officer
+cip, continuous improvement process
+cip, cost improvement plan, cost improvement programme
+cipfa, chartered institute public finance accountancy
+cis, care information systems
+citns, children's integrated therapy nursing services
+ckd, chronic kidney disease
+clahrc, collaboration leadership applied health research care
+cldc, common law duty confidentiality
+clg, communities local government
+cln, clinical lead nurse, clinical liaison nurse
+cln, clinical leaders network
+clod, clinical lead organ donation
+cls, community living skills
+clsqm, clinical service quality measure
+cm, community matron
+cmb, corpate management board
+cmc, coordinate my care
+cmd, common mental disder
+cme, continuing medical education
+cmg, clinical management groups
+cmhn, community mental health nurse
+cmht, community mental health team
+cmo, chief medical officer
+cmt, clinical management team
+cnf, case note file
+cno, chief nursing officer
+cns, case note store
+cns, clinical nurse specialist
+cnst, clinical negligence scheme trusts
+co, cabinet office
+coad, chronic obstructive airways disease
+coag, closed open angle glaucoma
+cobic, capitated outcomes-based incentivised contracts
+cof, commissioning outcomes framework
+cog, chief officers group
+cog, clinical operations group, clinical oversight group
+coi, central office information
+comare, committee medical aspects radiation environment
+comeap, committee medical effects air pollutants
+coni, care next infant
+coo, chief operating officer
+copd, chronic obstructive pulmonary disease
+coshh, control substances hazardous health
+cosi, co-ordinated safe integrated
+cosla, convention scottish local authorities
+cow, computer wheels
+cpa, care plan approach, care programme approach
+cpa, clinical pathology accreditation
+cpag, clinical priorities advisory group
+cpap, continuous positive airway pressure machine
+cpcf, community pharmacy contractual framework
+cpd, continuing professional development
+cpi, confidential patient information
+cpn, contract performance notice
+cpn, community psychiatric nurse
+cpop, clinical policy operations
+cpp, child protection plan
+cpp, clinical procurement partnership
+cppe, centre pharmacy postgraduate education
+cpr, cardiopulmonary resuscitation
+cpr, child protection register
+cpt, contingency planning team
+cqc, care quality commission
+cqi, clinical quality indicator
+cqrs, calculating quality repting service
+cquin, commissioning quality & innovation, commissioning quality innovation
+crb, criminal records bureau
+crb, clinical reference board
+crd, centre reviews dissemination
+cres, cash releasing efficiency scheme
+crg, clinical reference group
+crisp, carers information support programme
+crl, capital resource limit
+crn, clinical research network
+crom, clinician reported outcome measure
+crs, care records service
+crs, commissioner requested services
+csa, common services agency
+csap, children's safeguarding assurance partnership
+cse, child sexual exploitation
+csew, crime survey england wales
+csf, cerebrospinal fluid
+csf, commissioner sustainability fund
+csgbc, cancer service guidance breast cancer
+cso, chief scientific officer
+cso, civil society organisation
+cso, commissioning support organisation
+csp, chartered society physiotherapy
+csp, community safety partnership
+csqm, clinical service quality measures
+csr, comprehensive spending review
+css, commissioning support service
+cssd, central sterile service department
+cssu, children’s short stay unit
+csu, catheter stream urine sample
+csu, clinical service unit, clinical support unit
+csu, commercial support unit, commissioning support unit
+ct scan, computerised tomography
+ct, category tower, computerised tomography
+ctld, community team learning disabilities
+cto, community treatment order, compulsory treatment order
+ctp, care trust plus
+ctsp, category tower service provider
+cuh, croydon university hospital
+cvp, central venous pressure
+cvs, community & voluntary sector
+cxr, chest x-ray
+cyp, children young people
+cyt, community youth team
+d2a, discharge assess
+dalys, disability-adjusted life years
+dama, discharge against medical advice
+das, dementia adviser service
+das, difficult airway society
+dass, director adult social services
+dat, drug action team
+dbs, disclosure barring service
+dbss, directly bookable services
+dbt, dialectal behavioural therapy
+dca, double-crewed ambulance
+dcc, direct clinical care
+dch, digital child health
+dclg, department communities local government
+dcms, department culture media sport
+dco, designated clinical officer
+dcp, division clinical psychology
+dcrs, death certification review service
+dcrs, data collection reporting system
+dcs, director children's services
+dcsf, department children schools families
+dd, divisional director
+dda, dispensing doctors' association
+ddrb, doctors dentists review body
+decc, department energy climate change
+defra, department environment food rural affairs
+del, departmental expenditure limit
+des, directed enhanced services
+desmond, diabetes education self management ongoing newly diagnosed
+dfe, department education
+dfp, department finance personnel
+dft, department transport
+dgh, district general hospital
+dgm, divisional general manager
+dh, doh, department health
+dhsc, department health social care
+dhss, department health social services
+dhssps, department health social services public safety
+dib, difficulty breathing
+did, diagnostic imaging department
+dip, digital interoperability platform
+dipc, director infection prevention control
+dm&d, dictionary medicines devices, dictionary medicines & devices
+dm, divisional manager
+dmb, departmental management board
+dms, defence medical services
+dn, death notice, district nurse
+dna, didattend
+dnacpr, doattempt cardio pulmonary resuscitation, donot attempt cardiopulmonary resuscitation
+dnar, doattempt resuscitation
+dnas, doattends
+dnr, desuscitate
+do, developing our ganisation
+doa, dead arrival
+doc, duty candor
+dofs, directors finance
+dols, deprivation liberty safeguards
+domes, diagnostic outcomes monitoring executive summary
+dos, directory services
+dot, directly observed therapy
+dpa, data protection act
+dpc, dementia prevalence calculator
+dpchr, digital personal child health record
+dph, director public health
+dphhp, department public health health professions
+dppo, designated public places order
+dpr, data protection registrar
+dq, data quality
+dr, doctor
+dre, delivering race equality
+drg, diagnosis-related group
+dsa, data sharing agreement
+dso, departmental strategic objective
+dsph, directors public health
+dspt, data security protection toolkit
+dsr, directly standardised mortality rate
+dssa, delivering same-sex accommodation
+dst, decison support tool
+dsu, day surgery unit
+dsws, dementia support workers
+dta, decision admit
+dtc, diagnosis treatment centre
+dtoc, delayed transfer care, delayed transferscare
+dv, domestic violence
+dvt, deep vein thrombosis
+dwp, department work pensions
+dx, diagnosis
+e&d, equality diversity, equality & diversity
+e-gif, government interoperability framework
+e-ksf, knowledge skills framework
+ea, executive assistant
+eac, elderly accommodation counsel
+eadu, emergency assessment discharge unit
+eau, emergency assessment unit
+ebcd, experience-based co-design
+ebh, evidence-based healthcare
+ebitda, earnings before interest tax depreciation amortisation
+ebm, evidence-based medicine
+ebs, emergency bed service
+eca, emergency care assistant
+ecap, emergency care action plan
+ecct, extended community care team
+ecg, echocardiogram, electrocardiogram
+echo, echocardiogram
+echr, european convention human rights
+ecip, emergency care improvement programme
+ecist, emergency care intensive support team
+ecj, european court justice
+ecn, extended choice network
+ecsw, emergency care support worker
+ect, enhanced care teams
+ed, emergency department
+ed, executive director
+edc,  equality diversity council
+edc, emergency dispatch centre
+edd, estimated date discharge, expected datedischarge
+edi, equality diversity inclusion
+eds, equality delivery system
+eeg, electroencephalogram
+efl, external financing limit
+egpp, ethnic group population projection
+ehc, emergency hormonal contraception
+ehic, european health insurance card
+ehpf, european health policy forum
+ehr, electronic health record
+ehrg, equality human rights group
+ei, early intervention
+eia, equality impact assessment
+eip, early intervention psychosis
+el, elective care
+em, emergency medicine
+emd, emergency medical dispatcher
+eme, efficacy mechanism evaluation
+ems, events management service
+emu, early morning urine sample
+endpb, executive non-departmental public body
+enht, east & north herts nhs trust
+enp, emergency nurse practitioner
+ent, ear nose throat
+eo, employers’ organisation
+eoc, elective orthopaedic centre
+eoc, emergency operation centre
+eoe, east england eol endlife
+eof, education outcomes framework
+eolc, end life care
+epaccs, electronic palliative care coordination system, electronic palliative care coordination systems
+epau, early pregnancy assessment unit
+epp, expert patient programme
+epr, electronic patient record
+eprr, emergency preparedness resilience response
+eps, electronic prescription service
+eqia, equality impact assessment
+eras, enhanced recovery programme after surgery
+erdb, england revalidation delivery board
+eric, estates return information collection
+erma, emergency response management arrangements
+erod, earliest reasonable offer date
+esa, employment support allowance
+esd, early supported discharge
+esif, european structural investment fund
+esol, english speakers other languages
+esr, electronic staff record
+esr, erythrocyte sedimentation rate
+esth, epsom st helier university hospitals nhs trust
+et, endo-tracheal
+etci, electronic come in
+ete, education, training employment
+etp, electronic transmission prescriptions
+ets, emissions trading scheme
+ettf, estates technology transformation fund
+eua, examination under anaesthetic
+euo, end user organisation
+euod, end user organisation declaration
+evd, external ventricular drain
+ewdi, excess winter deaths index
+ewds, excess winter deaths
+ewtd, european working-time directive
+eyfs, early years foundation stage
+eyfsp, early years foundation stage profile
+fas, foetal alcohol syndrome
+fbc, full blood count
+fbc, full business case
+fce, finished consultant episode
+fcn, free choice network
+fd, finance director
+fesc, framework procuring external support commissioners
+fff, future focussed finance
+fft, friends family test
+fgm, female genital mutilation
+fhir, fast healthcare interoperability resources
+fhs, family health services
+fims, financial information management system
+fmp, financial management programme
+fnc, funded nursing care
+fne, fiberoptic nasal endoscopy
+fnp, family nurse partnership, family nurse practitioner
+foi, freedom information
+foia, freedom information act
+fom, future operating model
+fpnc, free personal nursing care
+fppr, fit proper persons requirement directors
+frg, finance review group
+frr, financial risk rating
+frs, first response service
+fsa, food standards agency
+fsrr, financial sustainability risk rating
+ft, foundation trust
+ftes, first-time entrants
+ftga, foundation trust governors' association
+ftn, foundation trust network
+fwb, fully weight bearing
+fy, foundation year
+fy, full year
+fy1, fy2, foundation doctor
+fyfv , five year forward view
+g&a, general acute, general & acute
+ga, general anaesthetic
+gcp, good clinical practice
+gdc, general dental council
+gde, global digital exemplar
+gdpr, general data protection regulation
+gds, general dental services
+ggi, good governance institute
+gic, gender identity clinic
+girft, getting right first time
+gla, great london authority
+gld, government legal department
+gmb, british trade union
+gmc, general medical council
+gms, general medical services
+go, government office
+goc, general optical council
+goo, general other outcome
+gos, general ophthalmic services
+gosh, great ormond street hospital
+gp, general practitioner
+gpc,  general practitioners committee
+gpes, general practice extraction service
+gphc, general pharmaceutical council
+gpooh, gp out hours
+gps, general practitioners
+gps, government procurement services
+gpsi  gpwsi, general practitioner withspecial interest
+gpsoc, gp systems choice
+gpvts, general practice vocational training scheme
+gro, general registrar’s office
+gscc, general social care council
+gtac, gene therapy advisory committee
+gtn,  genetic testing network
+gtt, gtt, drops
+gum, genito-urinary medicine
+gwc, general whitley council
+h&s, health safety, health & safety
+h/o, history of
+ha, health authority
+hai, hospital acquired infection
+halo, hospital ambulance liaison officer
+han, hospital night
+hap, hospital acquired pneumonia
+hap, hospital admission prevention
+happi, hospital antibiotic prudent prescribing indicator
+hapu, hospital acquired pressure ulcer
+harts, hazardous area response team
+hasu, hyper acute stroke unit
+haz, health action zone
+hazmat, hazardous materials
+hb, haemoglobin, health board
+hbpc, hospital based primary care
+hbpos, health-based place safety
+hca, health care assistant, healthcare assistant, healthcare assistants
+hcai, healthcare associated infection, healthcare-associated infection, healthcare-associated infections
+hcc, hertfordshire county council
+hchs, hospital community health services
+hcid, high consequence infectious disease
+hcp, healthy child programme
+hcpc, health care professions council
+hcs, health care services
+hcsw, healthcare support worker
+hct, hertfordshire community
+hcted, high cost tariff excluded devices
+hcw, health commission wales
+hdd, historical due diligence
+hdl, health department letter
+hdl, high-density lipoprotein
+hds, home delivery service
+hdu, high dependency unit
+hea, higher education academy
+heat, health efficiency access treatment
+hee, health education england
+hefce, higher education funding council england
+hei, healthcare environment inspectorate
+hei, higher education institution
+hems, helicopter emergency medical service
+hense, health education national strategic exchange
+hes, hospital episode statistics
+hesl, health education south london
+hetcg, health economy tactical coordination group
+hf, heart failure
+hfea, human fertilisation embryology authority
+hfma, healthcare financial management association
+hgc, human genetics commission
+hhh, hemel hempstead hospital
+hia, health impact assessment
+hiec, health innovation education cluster
+hii, high-impact innovation
+himp, health improvement modernisation plan
+hip, health innovation partnership
+his, healthcare improvement scotland, healthcare infection society, integrated house survey
+hitp, hertfordshire integrated transport partnership
+hiv, human immunodeficiency virus
+hiw, health inspectorate wales
+hlc, healthy living centre
+hle, healthy life expectancy
+hmo, health maintenance organisation
+hon, head nursing
+honos, health nation outcome scales
+hosc, health overview scrutiny committee
+hpa, health protection agency
+hpft, hertfordshire partnership
+hpma, healthcare people management association
+hpu, health protection unit
+hpv, human papilloma virus
+hqip, healthcare quality improvement partnership
+hr, human resources
+hra, health research authority, housing revenue account
+hrg, health related group, healthcare resource group
+hrt, hormone replacement therapy
+hsc, health select committee, health social care, health scrutiny committee, sub-committee overview scrutiny committee
+hsc, hertfdshire county council
+hsca, health social care act
+hscds, health social care digital service
+hsci, health service cost index
+hscic, health social care information centre
+hsct, health social care trust
+hscvf, health social care volunteering fund
+hsdu, hospital sterilisation disinfection unit
+hse, health safety executive
+hse, health survey england
+hsib, healthcare safety investigation branch
+hsj, health service journal
+hsmr, hospital standardised mortality ratio
+hso, health service ombudsman
+hsr, health service research
+hsrn, health services research network
+hss, health science services
+hssi, high severity service incidents
+hsv, herpes simplex virus
+hsw, healthcare support worker
+ht, height
+hta, health technology assessment
+htc, healthcare technology co-operative
+htm, health technical memorandum
+htt, home treatment team
+huc, herts urgent care
+hudu, healthy urban development unit
+hui, health utilities index
+hus, haemolytic uremic syndrome
+hv, health visitor
+hvccg, herts valley clinical commissioning group
+hvs, health visiting service
+hwb, health wellbeing board
+hwbb, health wellbeing boards
+hwe, healthwatch england
+hwm, healthwatch merton
+hx, history
+im, injection intomuscle
+iv, injection directly tovein
+i4i, invention innovation
+iaa, information asset administrator
+iao, information asset owner
+iapt, improving access psychological therapies
+ibn, information breach notice
+ibp, integrated business plan
+ic, information commissioner
+icas, independent complaints advocacy service
+icase, integrated care support exchange
+icc, intelligent client coordinator
+icd, international classification diseases
+icer, incremental cost effectiveness ratio
+icns, infection control nurses
+ico, infomation commissioners office
+ico, integrated care organisation
+icp, integrated care pathway, integrated care pilot
+icp, integrated care provider, integrated care partnership
+icr,  injury costs recovery scheme
+ics, integrated care systems
+icswp, intercollegiate stroke working party
+ict, information communication technology
+icu, intensive care unit
+idcr, integrated digital care record
+idt, integrated discharge team
+idva, independent domestic violence adviser, independent domestic violence advisors
+idvu, intravenous drug user
+ifr, individual funding request
+ig, information governance
+iga, information governance alliance
+igtk, information governance toolkit
+iham, indicative hospital activity model
+ihi, institute healthcare improvement
+ihw, innovation health wealth
+im&t, information management technology, information management & technology
+imas, interim management support, interim management service
+imb, integrated management board
+imc, intermediate care
+imca, independent mental capacity advocate
+imd, english indices multiple deprivation
+imroc, implementing recovery through organisational change
+inr, international normalised ratio
+iol, induction labour
+ip&c, infection prevention & control
+ip, information prescriptions, inpatient
+ipa, individual patient activity
+ipc, integrated personal commissioning
+ipn, infection prevention nurse
+ipr, individual performance review
+ipr, integrated performance report
+ips, individual placement support
+ipsis, independent patient safety investigation service
+iqi, indicators quality improvement
+iqsp, improving quality supporting practices
+ir, interventional radiology
+irgc, integrated risk governance committee
+irp, independent reconfiguration panel
+isa, independent safeguarding authority
+isb, information standards board health social care
+iscas, independent sector complaints adjudication service
+iscg, informatics services commissioning group
+isd, information statistics division
+ise, integrated standards executive
+isms, information security management system
+isn, information standard notice, information standards notice
+isp, independent sector provider
+ist, intensive support team
+istc, independent sector treatment centre
+itff, independent trust financial facility
+itu, intensive therapy unit, intensive treatment unit
+iv, improving value
+ivc, inferior vena cava
+ivf, vitro fertilisation
+ivi, intravenous infusion
+ivp, intravenous pyelogram
+iwl, improving working lives
+ix, investigations
+jag, joint advisory group
+jcg, joint commissioning group
+jcvi, joint committee vaccination immunisation
+jet, joint education & training
+jhws, joint health wellbeing strategy
+jip, joint investment plan
+jnc, joint negotiating committee
+jsa, job seeker’s allowance
+jsna, joint strategic needs assessment
+khft, kingston hospital nhs foundation trust
+kloe, key line enquiry, key linesenquiry
+kpi, key perfmorance indicator
+kpis should focus onrange areas
+ksf, knowledge skills framework
+ksf, key skills framework
+ksi, killed  seriously injured
+l&d, learning development, learning & development
+la, local anaesthetic, local authority
+laa, local area agreement
+laas, local area agreements
+labv, local asset backed vehicle
+lac, looked after children, looked-after children
+lad, left anterior descending
+lal, local authority letter
+lape, local alcohol profiles england
+laqn, london air quality network
+larc, long-acting reversible contraception
+las, local authities, locum appointment service
+las, london ambulance service
+lat, local area team, locum appointment training
+lbm, london borough merton
+lbw, low birth weight
+lcfs, local counter fraud service, local counter fraud specialist
+lcp, liverpool care pathway
+ldb, local delivery board
+ldl, low-density lipoprotein
+ldp, local delivery plan
+ldpb, learning disability partnership board
+lems, local events management service
+lep, local enterprise partnership
+les, local enhanced services
+letb, local education training boards
+letbs, local education training boards
+lft, liver function test
+lga, local government association
+lgbt, lesbian gay bisexual transgender
+lha, local health authority
+lhb, local health board
+lhcai, local health care associated infections
+lhcre, local health care record exemplars
+lhe, london health economy
+lho, london health observatory
+lhp, local health plan
+lhp, london health programmes
+lhrp, local health resilience partnership
+lhw, local healthwatch
+link, local involvement network
+lis, local implementation strategy
+lit, local implementation team
+lks, library knowledge service
+llc, limb loss centre
+lma, laryngeal mask airway
+lmc, local medical committee
+lmp, last menstrual period
+los, length stay
+lpn, local professional network
+lps, liberty protection safeguards
+lpsa, local public service agreement
+lqaf, library quality assurance framework
+lqs, london quality standards
+lrf, local resilience forum
+lsab, lancashire safeguarding adults board
+lscb, local safeguarding children board
+lsms, local security management specialist
+lsp, local service provider
+lsp, local strategic partnership
+lst, life skills training
+lta, long-term agreement
+ltc, long-term conditions
+ltfm, long term financial model
+lth, leeds teaching hospitals
+ltp, nhs long term plan
+lwab, local workfce action board
+lxp, lived experience practitioner
+m/r, modified release
+maat, merton adult access team
+mac, migration advisory committee
+madel, medical dental education levy
+maes, merton adult education service
+mane, morning after next evening
+mar, monthly activity return
+mars, multi-agency resiliene safeguarding board
+mars, mutually agreed resignation scheme
+mars, medical appraisal revalidation system
+mars, medication administration record sheet
+mash, multi-agency safeguarding hub
+mau, medical assessment unit
+mbc, metropolitan borough council
+mca, mental capacity act
+mcds, maternity children’s data set
+mcn, managed clinical network
+mco, managed care organisation
+mcp, multi-specialty community provider
+mcr, marginal cost rebate
+md, medical director
+mda, medical device agency, medical device alert
+mdhu, ministry defence hospital unit
+mdrtb, multidrug-resistant tb
+mdt, multi-disciplinary team, multi-disciplinary teams
+mdt, multi-drug therapy
+mee, medical education england
+meows, modified early obstetric warning system
+merit, medical emergency response incident teams
+merton ccg, merton clinical commissioning group
+mesh, message exchange social care health
+mews, modified early warning score
+mff, market forces factor
+mffd, medically fit discharge
+mh, mental health
+mhac, mental health act commission
+mhct, mental health clustering tool
+mhld, mental health learning disability
+mhldds, mental health learning disability data set
+mhlt, mental health liaison team
+mhmds, mental health minimum dataset
+mhn, mental health network
+mhra, medicines healthcare products regulatory agency
+mhrt, mental health review tribunal
+miles, merton independent living engagement service
+mip, managers partnership
+miu, minor injuries unit, minor injury units
+mla, member legislative assembly
+mlcsu, midlands lancashire commissioning support unit
+mlu, midwife led birthing units, midwife-led unit
+mmc, modernising medical careers
+mmh, maternal mental health
+mmha, maternal mental health alliance
+mmr, measles mumps rubella
+mmt, medicines management team
+mnd, motor neurone disease
+mnda, motor neurone disease association
+moc, model care
+moj, ministry justice
+mou, memorandum understanding
+mpet, multi-professional education training
+mpig, minimum practice income guarantee
+mqi, measuring quality improvement
+mr, modified release
+mrc, medical research council
+mret, marginal rate emergency tariff
+mri, magnetic resonance imaging
+mrsa, methicillin resistant staphylococcus aureus, methicillin-resistant staphylococcus aureus
+ms, multiple sclerosis
+msa, mixed sex accomodation
+msc, modernising scientific careers
+msk, musculoskeletal
+msm, men who have sex men
+msoa, middle super output area
+msp, member scottish parliament
+mssa, methicillin-sensitive staphylococcus aureus
+mst, multi-systemic therapy, multisystemic therapy
+mst-psb, multisystemic therapy problem sexual behaviour
+msu, mid-stream urine sample
+mta, material transfer agreement
+mtc, major trauma centre
+mts, management training scheme
+mur, medicines use review
+mus, medically unexplained symptoms
+mvsc, merton voluntary service council
+mwia, mental well-being impact assessment
+npo, nothing mouth
+n3, new national network
+na, nurse assistant
+nac, non-authority contacts
+nad, nothing abnmal discovered
+nag, national advisory group
+nagcae, national advisory group clinical audit enquiries
+nai, non-accidental injury
+namps, national association medical personnel specialists
+nao, national audit office
+napc, national association primary care
+naru, national ambulance resilience unit
+naw, national assembly wales
+nbap, national booked admissions programme
+nbi, national beds inquiry
+nbm, nil mouth
+nbs, newborn blood spot
+nbsfs, national blood spot failsafe system
+nca, non-contracted activities
+ncaf, national clinical audit forum
+ncapop, national clinical audit patients’ outcomes programme
+ncas, national clinical assessment service
+ncasp, national clinical audit support programme
+ncd, national clinical director
+nce, national confidential enquiry
+ncepod, national confidential enquiry patient outcome death
+ncg, national commissioning group
+ncin, national cancer intelligence network
+ncm, new care models
+ncmp, national child measurement programme
+ncp, national contracted product
+ncrs, national cancer registry service
+ncsp, national chlamydia screening programme
+ncvo, national council voluntary organisations
+nda, national diabetes audit
+ndec, national drug evidence centre
+ndg, national data guardian
+ndi, nephrogenic diabetes insipidus
+ndis, national diabetes information service
+ndop, national data opt-out programme
+ndpb, non-departmental public body
+ndse, national dementia strategy england
+ndtms, national drug treatment monitoring system
+ne, never event
+neat, new emerging applications technology
+necs, north england commissioning support
+ned, non executive director, non-executive director
+nef, new economics foundation
+neg, nurse executive group
+nel, non-elective
+nems, national events management service
+neolcin, national end life care intelligence network
+nepho, north east public health observatory
+nes, national enhanced services
+nes, nhs education scotland
+news, national early warning score
+nfr, resuscitation
+ng, nasogastric
+ngms, new general medical services
+nhb, new homes bonus
+nhl, non-hodgkins lymphoma
+nhs cfh, nhs connecting health
+nhs dep, nhs dental epidemiology programme
+nhs iq, nhs improving quality
+nhs lift, nhs local improvement finance trust
+nhs qis, nhs quality improvement scotland
+nhs tef, nhs transitional executive forum
+nhs, national health service
+nhs qis, nhs quality improvement scotland
+nhsbsa, nhs business authority services
+nhsbt, nhs blood transplant
+nhscb, nhs commissioning board
+nhscc, nhs clinical commissioners
+nhsd, nhs digital
+nhse, nhs employers, nhs england
+nhsel, nhs england london
+nhsi, nhs improvement, nhs institute innovation improvement
+nhsic, nhs information centre
+nhsiq, nhs improving quality
+nhsla, national health service litigation authority
+nhsla, nhs litigation authority
+nhslift, nhs local improvement finance trust
+nhsof, nhs outcomes framework
+nhsp, newborn hearing screening programme
+nhsp, nhs professionals
+nhspn, nhs partners network
+nhsps, nhs pension scheme
+nhsra, nhs registration authority
+nhst, nhs trust
+nhstda, nhs trust development agency
+nia, northern ireland assembly
+niao, northern ireland audit office
+nic,  national innovation centre
+nic, national insurance contribution
+nice, national institute health care excellence, national institute health clinical excellence
+nicip, national interim clinical imaging procedures
+nicu, neonatal intensive care unit
+nigb, national information governance board
+nihr, national institute health research
+nio, northern ireland office
+nipe, newborn infant physical examination
+njr, national joint registry
+nliah, national leadership innovation agency healthcare
+nlop, national programme local ownership programme
+nlph, national library public health
+nmc, nursing midwifery council
+nms, new medicine service
+nncps, national network clinical procurement specialists
+nnu, neonatal unit
+nocri, national office clinical research infrastructure
+nocte, every night
+nof, neck femur
+nof, new opportunities fund
+noff, neck femur fracture
+nog, national oversight group
+non-pbr, non-payable result
+ns, national organ retrieval service
+np, nurse practitioner
+npc, national product care
+npdg, national pals development group
+npfit, national programme it
+npg, national priorities guidance
+npm, national pricing matrix
+npsa, national patient safety agency
+nqb, national quality board
+nqr, national quality requirement
+nrac, nhs scotland resource allocation committee
+nrci, national reference cost index
+nres, national research ethics service
+nrl, national record locator
+nrls, national reporting learning service, national reporting learning system
+nrt, nicotine replacement therapy
+nsaid, non-steroidal anti-inflammatory drug
+nscg, national specialist commissioning group
+nsclc, non-small-cell lung cancer
+nscp, north somerset community partnership
+nsf, national service framework
+nsr, next stage review
+nsrc, national schedule reference costs
+nss, national services scotland
+nta, national treatment agency
+ntac, nhs technology adoption centre
+ntag, national tariff advisory group
+ntd, national tariff document
+ntda, nhs trust development agency, nhs trust development authority
+ntdaor, nhs trust development authority
+nto, national training organisation
+nwis, nhs wales informatics service
+nwp, national workforce projects
+od, onceday
+o/e, examination
+obc, outline business case
+obs, obstetrics
+ocd, obsessive-compulsive disorder
+ocpa, office commissioner public appointments
+ocs, office civil society
+ocus, opiate crack cocaine users
+od, organisational development
+odn, operational delivery network
+odp, operating department practitioner
+ods, organisation data service, organisational data service
+ofmdfm, office first minister & deputy first minister
+ogc, office government commerce
+ohe, office health economics
+oht, occular hypertension
+ojeu, official journal european union
+olm, oracle learning management
+ols, office life sciences
+om, operating model
+omb, operational management board
+omg, operational management group
+ons, office national statistics, office national statistics
+ooh, outhours service
+oohc, out hospital care
+op, outpatient
+opa, outpatient appointment
+opatt, outpatient attendance
+opccog, oxfordshire primary care commissioning operational group
+opcs, office population censuses surveys
+oproc, outpatient procedure
+orsa, organisational readiness self assessment
+osc,  overview scrutiny committee
+oschr, office strategic coordination health research
+ot, occupational therapist
+p-merit, paramedic medical emergency response incident teams
+pc, after food
+pm, afternoon, evening
+po, orally mouth, oral administration
+pr, rectally
+prn, needed, pertactin
+p/c, presenting complaint
+pa, physician assistant
+pa, programmed activities, programmed activity
+pab, professional advisory board
+pac, public accounts committee
+pacs, picture archiving communications system
+pacs, primary acute care system
+paf, performance assessment framework
+pals, patient advice liaison service
+pam, patient activation measure
+pam, premises assurance model
+pansi, projecting adult needs service information system
+par, patient risk
+pas, patient administration system
+paslu,  patient access scheme liaison unit
+pass, patient advice support service
+pau, paediatric assessment unit
+pbc, practice-based commissioning
+pbr, payment results
+pbs, positive behavioural support
+pc, planned care
+pca, patient care assistant
+pca, patient controlled analgesia
+pcbc, pre-consultation business case
+pcc, patient care coordinator
+pcc, police crime commissioner
+pcc, primary care centre
+pcec, patient client experience committee
+pcip, primary care investment plan
+pcn, primary care network
+pco, primary care organisation
+pcp, person centred plan, personal care plan
+pcrmp, prostate cancer risk management programme
+pcs, productive community services
+pct, primary care trust
+pctps, primary care trust-provided services
+pcts, primary care trusts
+pda, patient decision aid
+pdc, public dividend capital
+pdd, predicted date discharge
+pdf, portable document format
+pdn, practice development nurse
+pdp, personal development plan
+pds, personal demographic service
+peat, patient environment action team
+pec, professional executive committee
+pef, practice educator facilitator
+peg, patient experience group
+pem, paediatric emergency medicine
+pfi, private finance initiative
+pgd, patient group direction
+pgmc, post-graduate medical centre
+ph, public health
+phast, public health action support team
+phb, personal health budget
+phe, public health england
+pho, public health observatory
+phof, public health outcomes framework
+phr, personal health records, public health research
+phwsi, pharmacist special interest
+physio, physiotherapist
+pi, peripheral iridotomy, promoting independence
+picd, procurement investment commercial division
+picu, paediatric intensive care unit, psychiatric intensive care unit
+pid, project initiation document
+pig, policy implementation guide
+pii, patient, person identifiable information
+pimhs, parent infant mental health service, perinatal infant mental health service
+pip, patient information point, personal independence payment
+pipot, persons positions trust
+piss, pin index safety system
+pit, public interest test
+place, patient-led assessments care environment
+plc, pigmented lesion clinic
+plcv, procedures limited clinical value
+plic, patient-level information costing
+pmhl, paediatric mental health liaison
+pmhw, productive mental health ward
+pmi, private medical insurance
+pmo, programme management office
+pmr, provider management regime
+pms, personal medical services
+pna, pharmaceutical needs assessment
+poac, pre-operative assessment clinic
+poc, package care
+poct, point care testing
+poet, personal budgets outcomes evaluation tool
+pom, prescription-only medicines
+pop, plaster paris
+popp, partnerships older people project
+poppi, projection older people population information system
+poshh, partnership occupational safety health healthcare
+pp, paramedic practitioner
+ppc, pre-payment certificate, preferred priorities care
+ppd, preferred place death
+ppe, patient public engagement, personal protective equipment
+ppesg, patient public engagement steering group
+ppf, priorities planning framework
+ppg, patient participation group
+ppi, patient public involvement
+ppi, proton pump inhibitors
+ppib, purchase price index benchmarking tool
+ppic, private patient income cap
+ppif, patient public involvement forum
+ppm, planned preventative management
+ppo, preferred provider organisation
+ppp, public–private partnership
+pprs, pharmaceutical price regulation scheme
+ppu, private patient units
+ppv, patient public voice
+pr, public relations
+pra, patient research ambassador
+prb, pay review body
+prcc, principles rules cooperation competition
+prem, patient reported experience measure
+prf, patient report forum
+prom, patient-reported outcome measure
+proms, patient reported outcome measures
+prp, policy research programme
+prsb, professional record standards body, professional records standard body
+ps, protected services
+psa, prostate specific antigen
+psa, public service agreement
+psa, professional standards authority health social care
+psd, patient specific direction
+psed, public sect equality duty
+psf, provider sustainability fund
+pshe, personal social health economic education
+psnc, pharmaceutical services negotiating committee
+psqr, patient safety quality risk committee
+pss, personal social services
+pt, patient
+pt, physiotherapy
+ptl, patient tracker list, patient tracking list
+ptp, procurement transformation programme
+pts, patient transport service, psychological therapies service
+ptsd, post-traumatic stress disorder
+ptt, partial thromboplastin time
+pu, passed urine
+pvc, peripheral venous cannula
+pwp, psychological wellbeing practitioner
+pyll, potential years life lost
+q&a, questions answers, questions & answers
+q, every
+q1d, every day
+q1h, every hour
+q2h, every 2 hours
+q4h, every 4 hours
+q6h, every 6 hours
+q8h, every 8 hours
+qd, every day, daily
+qds, 4 timesday
+qh, every hour, hourly
+qid, 4 timesday
+qod, every other day, alternate days
+qs,sufficient quantity, enough
+qa, quality assurance
+qaly, quality-adjusted life year
+qar, quarterly activity returns
+qg, quality governance
+qgaf, quality governance assurance framework
+qi, quality improvement
+qia, quality impact assessment
+qip, quality improvement plan
+qipp, quality innovation productivity prevention
+qis, qualified specialty
+qmas, quality management analysis system
+qof, quality outcomes framework
+qquip, quest quality improved performance
+qrp, quality risk profile
+qsg, quality safety group, quality surveillance group
+qsir, quality service improvement redesign
+r&d, research development, research & development
+ra, registration authority
+rab, resource accounting budgeting
+rag, red amber green assessment rating, risk governance, red amber green
+raid, rapid assessment interface discharge
+rap, remedial action plan
+rat, rapid assessment treatment
+rc, reference cost
+rca, root cause analysis
+rcd, research capacity development
+rcgp, royal college general practitioners
+rcm, royal college medicine
+rcm, royal collegemidwifery, royal college midwives
+rcn, royal college nursing
+rcoa, royal college anaesthetists
+rcog, royal college obstetricians gynaecology
+rcot, royal college occupational therapists
+rcp, royal college physicians, royal collegephysicians
+rcpch, royal college paediatrics child health, royal college paediatricians child health
+rcpe, royal college physiciansedinburgh
+rcpsg, royal college physicians surgeonsglasgow
+rcr, royal college radiologists
+rcs, royal college surgeons
+rcse, royal college surgeonsedinburgh
+rcslt, royal college speech language therapists
+rct, randomised controlled trial
+rd, registered dietitian
+rdag, rare diseases advisory group
+ref, research excellence framework
+res, race equality scheme
+rfh, royal free hospitals nhs foundation trust
+rfid, radio frequency identfication
+rgh, rural general hospital
+riddor, reporting injuries, diseases dangerous occurrences regulations
+ris, radiology information system
+rits, request information technology services
+rmh, royal marsden nhs foundation trust
+rmn, registered mental health nurse
+rn, registered nurse
+rnld, learning disability nurse
+ro, responsible officer
+rocr, review central returns
+rom, range movement
+rosc, return spontaneous circulation
+rpa, radiation protection adviser service
+rps, royal pharmaceutical society
+rrg, rapid reference group
+rrr, rapid responsive review
+rrr, recovery rehabilitation reablement
+rrv, rapid response vehicle
+rsrc, risk summit response committee
+rss, referral support service
+rst, revalidation support team
+rsv, respirtory syncytial virus
+rta, road traffic accident
+rtt, referral treatment
+rttc, releasing time care
+rx, treatment
+sc, injection under skin
+s/r, sustained release
+sa, strategic assessment
+sacda, scottish advisory committee distinction awards
+sach, st albans city hospital
+sad, supraglottic airwary device
+safa, safeguarding adults from abuse
+salt, speech language therapy
+sam, society acute medicine
+samu, standalone midwifery led unit
+sar, standardised admission ratio, subject access request
+sars, severe acute respirtory syndrome
+sas, scottish ambulance service, staff associated specialist
+sasm, scottish audit surgical mortality
+sau, surgical assessment unit
+sbar, situation background assessment recommendation
+sbs,  shared business services, nhs shared business services
+scas, south central ambulance service
+scb, strategic commissioning board
+scbu, special care baby unit
+scc, squamous cell carcinoma
+scc, strategic codination centre
+scci, stansardisation committee care information
+sccl, supply chain coordination limited
+sccr, single community care recd
+scg, specialised commissioning group
+scg, strategic coordination group
+sci, scottish care information
+scie, social care institute excellence
+sclc, small cell lung cancer
+scn, strategic clinical network
+scr, summary care record
+screw, safe caring responsive effective well-led
+scs, senior civil servants
+scvo, scottish council voluntary organisations
+sdec, same day emergency care
+sdf, service delivery footprint
+sdip, service development & improvement plan
+sdma, surgical dressing manufacturers association
+sdo, service delivery organisation
+sdu, sterilisation disinfection unit, sustainable development unit
+seif, social enterprise investment fund
+sen, special educational need, special educational needs
+send, special education needs disabilities, special educational needs & disability
+seqohs, safe effective quality occupational health service
+ses, single equality scheme
+sfa, skills funding agency
+sfa, statement fees allowances
+sfc, skills care
+sfh, skills health
+sfi, standing financial instructions
+sgh, st george’s hospital, st george’s university hospitals nhs foundation trust
+sghd, scottish government health directorates
+sha, strategic health authority
+shh, st helier hospital university hospital nhs trust
+shlaa, strategic housing land availability assessment
+shma, strategic housing market assessment
+shmi, standardised hospital mortality index, summary hospital mortality indicator, summary hospital-level mortality indicator
+sho, senior house officer
+show, scottish health web
+shrewd, single health resilience early warning database
+shrine, strategic human resources information network
+si, serious incident
+sic, statement internal control
+sid, senior independent director
+sign, scottish intercollegiate guidelines network
+sii, slope index inequality
+sip, strategic improvement program
+sirg, serious incident review group
+siri, serious incident requiring investigation
+siro, senior information risk owner, serious incident risk officer
+sirs, security incident reporting system
+sla, service level agreement
+sla, scottish lifesciences association
+slam, south london maudsley mental health trust
+slcs, southern local clinical systems
+slhp, south london hiv partnership
+slm, service line management
+slr, service line reporting, service-line reporting
+slt, speech language therapist, speech language therapy
+smac, standing medical advisory committee
+smc, scottish medicines consortium
+smdu, strategic market development unit
+sme, small medium enterprise
+smg, strategic management group
+smi, severe mental illness
+smpct, sutton merton primary care trust
+smr, standardised mortality ratio
+sms, security management service
+smt, senior management team
+snod, specialist nurse organ donation
+snomed, systematised nomenclature medicine
+sns, school nursing services
+soar, scottish online appraisal record, scottish online appraisal resource
+sob, shortness breath
+soc, strategic outline case
+socf, statement cash flows
+sodp, senior operating department practitioner
+sofp, statement financial position
+sor, society radiographers
+spa, single point access
+spa, special programmed activity
+spa, supporting professional activity
+spc, specialist palliative care
+spc, statistical process control
+spf, social partnership forum
+spg, strategic planning group
+spi, scientific pandemic influenza advisory committee
+spms, specialist provider medical services
+spn, special patient notes
+spor, single point referral
+spot, spend outcome tool
+spr, specialist registrar
+spsp, scottish patient safety programme
+sq, safety quality
+srb, single regeneration budget
+srg, system resilience group
+srm, supplier relationship management
+sro, senior responsible officer
+srp, structural reform plan
+srsa, statistics registration service act 2007
+ssa, standard spending assessment
+ssc, shared service centre
+sscif, specialised services commissioning innovation fund
+ssem, short stay emergency tariff
+sskin, surface skin inspection keep moving incontinence,moisture nutrition
+ssrb, senior salaries review body
+st&m, statutory mandatory, statutory & mandatory
+st&t, scientific therapeutic technical, scientific therapeutic & technical
+start, specialist triage assessment referral team
+stat, immediately, now
+steis, strategic executive information system
+stemi, st-elevation myocardial infarction
+stf, sustainability transformation fund
+stis, sexually transmitted infections
+stp, sustainability transformation partnership
+stp, sustainability transformation programme
+sudc, sudden unexpected death childhood
+sui, serious untoward incident
+sus, secondary uses service
+susars, suspected unexpected serious adverse reactions
+swep, severe weather emergency protocol
+swllas, south west london local authorities
+swlcc, south west london collaborative commissioning
+swleoc, south west london elective orthopaedic centre
+swlmn, south west london maternity network
+swlstg, south west london st george’s, south west london st george’s mental health trust
+t&d, training development, training & development
+t&o, trauma orthopaedic, trauma & orthopaedic
+tds, 3 timesday
+tid, 3 timesday
+tac, team around child
+tag, technical advisory group
+tamhs, targeted mental health schools
+tarn, trauma audit research network
+tavi, transcatheter aortic valve implantation
+tb, tuberculosis
+tcc, tactical coordination centre
+tcg, tactical coordination group
+tci, come in, transfer care initiative
+tcp, transforming care partnership
+tda, trust development authority
+tec, trust executive committee
+teg, trust executive group
+tfa, tripartite formal agreement
+tft, thyroid function test
+tht, terrence higgins trust
+tia, transient ischaemic attack
+tiff, trust internal financial flows
+tkr, total knee replacement
+tlap, think local act personal
+tlec, trust leadership executive committee
+tna, training nursing associate
+tom, therapy outcome measure
+top, termination pregnancy
+tor, terms reference
+tpc, transformation programme committee
+tpn, total parenteral nutrition
+tpr, temperature, pulse respiration
+tsa, trust special administrator
+tssu, theatre sterile service unit
+tta, take away
+ttl, trauma team leader
+tto, take out
+ttom, take out medicine
+tuc, trades union congress
+tupe, transfer undertakings
+tvn, tissue viability nurse
+tvt, tissue viability team
+twoc, trial catheter
+tx, transfers
+u&e, urea & electrolytes, urea electrolytes
+ud, directed
+uc, urgent care
+ucb, urgent care board
+ucc, urgent care centre
+uec, urgent emergency care
+uecc, urgent emergency care centre
+uecn, urgentemergency care network
+ukba, uk bder agency
+ukcc, uk cochrane centre
+ukcrc, uk clinical research collaboration
+ukcrn, uk clinical research network
+ukpds, uk prospective diabetes study
+ulr, union learning representative
+upr, unsustainable provider regime
+usar, urban search rescue
+utc, urgent treatment centre
+uti, urinary tract infection
+vcfos, voluntary community faith organisations
+vcs, voluntary community sector
+vfm, value money
+vhf, viral haemorrhagic fever
+vldl, very-low density lipoprotein
+vsm, very senior managers
+vte, venous thromboembolism
+wacs, women’s children’s services
+wag, welsh assembly government
+waht, weston area health trust
+wao, wales audit office
+wbc, watford borough council
+wbs, welsh blood service
+wdes, workforce disability equality standard
+wfc, workforce committee
+wg, welsh government
+wgh, watford general hospital
+whht, west hertfordshire hospitals nhs trust
+whins, wellbeing health integrated neighbourhoods platform
+who, world health organisation, world health organization
+wic, walk centre
+wmpho, west midlands public health observatory
+wnb, wasbrought
+word, wales office research development health social care
+wpf, welsh partnership forum
+wraps, wellness recovery action plans
+wres, workforce race equality standard
+wrt, workforce review team
+wrvs, women’s royal voluntary service
+wt, weight
+wtd, working-time directive
+wte, whole time equivalent
+wtr, working time regulations
+wvjip, winterbourne view joint improvement programme
+wzf, wheeled zimmer frame
+xml, extensible mark-up language
+ycyf, your care your future
+ytd, year date

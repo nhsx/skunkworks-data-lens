@@ -1,0 +1,179 @@
+POST _template/com205_template
+{
+  "order": 0,
+  "index_patterns": [
+    "com205-*", "c205-nhs-data-dictionary"
+  ],
+  "settings": {
+    "number_of_replicas": 0,
+    "index": {
+      "analysis": {
+        "char_filter": {
+          "com205_char_filter": {
+            "type": "mapping",
+            "mappings": [
+              "& => _and_",
+              "a and e => a_and_e"
+            ]
+          }
+        },
+        "filter": {
+          "english_keywords": {
+            "keywords": [
+              "a_and_e",
+              "dm_and_d",
+              "e_and_d",
+              "g_and_a",
+              "im_and_t",
+              "ip_and_c",
+              "r_and_d",
+              "st_and_t",
+              "u_and_e"          
+            ],
+            "type": "keyword_marker"
+          },
+          "english_stemmer": {
+            "type": "stemmer",
+            "language": "english"
+          },
+          "english_possessive_stemmer": {
+            "type": "stemmer",
+            "language": "possessive_english"
+          },
+          "com205_synonym": {
+            "type": "synonym_graph",
+            "synonyms_path": "analysis/com205_synonyms.txt",
+            "updateable": "true"
+          },
+          "english_stop": {
+            "type": "stop",
+            "stopwords": "_english_"
+          }
+        },
+        "analyzer": {
+          "whitespace_analyzer": {
+            "filter": [
+              "lowercase"
+            ],
+            "tokenizer": "whitespace"
+          },
+          "rebuilt_english": {
+            "char_filter": [
+              "html_strip",
+              "com205_char_filter"
+            ],
+            "filter": [
+              "english_possessive_stemmer",
+              "lowercase",
+              "english_keywords",
+              "english_stop",
+              "english_stemmer"
+            ],
+            "tokenizer": "standard"
+          },
+          "synonym_analyzer": {
+            "char_filter": [
+              "html_strip",
+              "com205_char_filter"
+            ],
+            "filter": [
+              "english_possessive_stemmer",
+              "lowercase",
+              "english_keywords",
+              "english_stop",
+              "english_stemmer",
+              "com205_synonym"
+            ],
+            "tokenizer": "standard"
+          }
+        }
+      }
+    }
+  },
+  "mappings": {
+    "dynamic_templates": [
+      {
+        "accepted_dates_formats": {
+          "mapping": {
+            "format": "strict_date_optional_time",
+            "type": "date"
+          },
+          "match_mapping_type": "date"
+        }
+      },
+      {
+        "url_strings": {
+          "match_mapping_type": "string",
+          "match": "*url*",
+          "mapping": {
+            "type": "keyword"
+          }
+        }
+      },
+      {
+        "name_strings": {
+          "match_mapping_type": "string",
+          "match": "*name*",
+          "mapping": {
+            "type": "keyword"
+          }
+        }
+      },
+      {
+        "id_strings": {
+          "match_mapping_type": "string",
+          "match": "*id",
+          "mapping": {
+            "type": "keyword"
+          }
+        }
+      },
+      {
+        "strings": {
+          "match_mapping_type": "string",
+          "mapping": {
+            "search_analyzer": "synonym_analyzer",
+            "analyzer": "rebuilt_english",
+            "type": "text",
+            "fields": {
+              "keyword": {
+                "type": "keyword",
+                "ignore_above": 256
+              }
+            }
+          }
+        }
+      }
+    ],
+    "properties": {
+      "coverage_start_date": {
+        "format": "strict_date_optional_time||dd/MM/yyyy",
+        "type": "date"
+      },
+      "coverage_end_date": {
+        "format": "strict_date_optional_time||dd/MM/yyyy",
+        "type": "date"
+      },      
+      "url": {
+        "type": "keyword"
+      },
+      "source": {
+        "type": "keyword"
+      },
+      "source_url": {
+        "type": "keyword"
+      },
+      "text_vector": {
+        "type": "dense_vector",
+        "dims": 768
+      },
+      "entities": {
+        "properties": {
+          "locations": {
+            "type": "keyword"
+          }
+        }
+      }
+    }
+  }
+}

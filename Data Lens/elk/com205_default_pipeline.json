@@ -1,0 +1,12 @@
+PUT _ingest/pipeline/com205_default_pipeline
+{
+  "description": "sets the metadata for all documents. When using this pipeline ES will add the _ingest.timestamp key of the ingest metadata",
+  "processors": [
+    {
+      "set": {
+        "field": "ingest.timestamp",
+        "value": "{{_ingest.timestamp}}"
+      }
+    }
+  ]
+}

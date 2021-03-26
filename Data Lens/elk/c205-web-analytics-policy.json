@@ -1,0 +1,14 @@
+PUT /_ilm/policy/c205-web-analytics-policy
+{
+  "policy": {
+    "phases": {
+      "hot": {
+        "actions": {
+          "rollover": {
+            "max_size": "5GB"
+          }
+        }
+      }
+    }
+  }
+}
