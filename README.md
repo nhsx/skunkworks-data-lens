@@ -1,8 +1,8 @@
-# [NHSx AI Lab Skunkworks project: Data Lens](https://www.nhsx.nhs.uk/ai-lab/explore-all-resources/develop-ai/data-lens-a-fast-access-data-search-in-multiple-languages/)
+# [NHSX AI Lab Skunkworks project: Data Lens](https://www.nhsx.nhs.uk/ai-lab/explore-all-resources/develop-ai/data-lens-a-fast-access-data-search-in-multiple-languages/)
 
-> A pilot project for the NHSx AI Lab Skunkworks team, Data Lens brings together information about multiple databases, providing a fast-access search in multiple languages
+> A pilot project for the NHSX AI Lab Skunkworks team, Data Lens brings together information about multiple databases, providing a fast-access search in multiple languages
 
-As the successful candidate from a Dragons’ Den-style project pitch, Data Lens was first picked as a pilot project for the NHSx AI (Artificial Intelligence) Lab Skunkworks team in September 2020.
+As the successful candidate from a Dragons’ Den-style project pitch, Data Lens was first picked as a pilot project for the NHSX AI (Artificial Intelligence) Lab Skunkworks team in September 2020.
 
 The pitch outlined a common data problem for analysts and researchers across the UK: large volumes of data held on numerous incompatible databases in different organisations. The team wanted to be able to quickly source relevant information with one search engine.
 
@@ -22,13 +22,13 @@ This project helps to join up health and social care by enabling cross organisat
 
 Using artificial intelligence to power this search engine reduces the time required to make the most of existing data sets, and answers the call from the Secretary of State for Health and Social Care to turbo charge data responsiveness and ease the burden of data collection across the health and care system.
 
-The NHSx AI Lab is working with the Home Office programme: [Accelerated Capability Environment (ACE)](https://www.gov.uk/government/groups/accelerated-capability-environment-ace) to choose a supplier to complete this project, providing access to a large pool of talented and experienced suppliers who pitch their own vision for the project.
+The NHSX AI Lab is working with the Home Office programme: [Accelerated Capability Environment (ACE)](https://www.gov.uk/government/groups/accelerated-capability-environment-ace) to choose a supplier to complete this project, providing access to a large pool of talented and experienced suppliers who pitch their own vision for the project.
 
 Data Lens currently joins up five data catalogues from across the NHS system including NHS England and Improvement, NHS Digital, and Public Health England. The project is now entering a testing phase where searches will be used to train the search engine, and feedback implemented to improve the user experience.
 
-## NHSx AI Lab Skunkworks
-The project is supported by the NHSx AI Lab Skunkworks, which exists within the NHSx AI Lab to support the health and care community to rapidly progress ideas from the conceptual stage to a proof of concept.
+## NHSX AI Lab Skunkworks
+The project is supported by the NHSX AI Lab Skunkworks, which exists within the NHSX AI Lab to support the health and care community to rapidly progress ideas from the conceptual stage to a proof of concept.
 
-Find out more about the [NHSx AI Lab Skunkworks](https://www.nhsx.nhs.uk/ai-lab/ai-lab-programmes/skunkworks/).
+Find out more about the [NHSX AI Lab Skunkworks](https://www.nhsx.nhs.uk/ai-lab/ai-lab-programmes/skunkworks/).
 Join our [Virtual Hub](https://future.nhs.uk/connect.ti/system/text/register) to hear more about future Dragons' Den-style event opportunities.
 Get in touch with the Skunkworks team at [aiskunkworks@nhsx.nhs.uk](aiskunkworks@nhsx.nhs.uk).

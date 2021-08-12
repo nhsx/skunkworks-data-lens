@@ -101,7 +101,7 @@ class Embedder(Resource):
     })
     
     @api.doc(
-        params={'target': 'An NHSx datasource'},
+        params={'target': 'An NHSX datasource'},
         body=resource_fields,
         responses={400: 'Bad Request',
                    424: 'Failed Dependency'}
@@ -132,7 +132,7 @@ class Embedder(Resource):
         return str(text_vector.numpy().tolist())
     
 
-    @api.doc(params={'target': 'An NHSx datasource'})
+    @api.doc(params={'target': 'An NHSX datasource'})
     def put(self):
         
         # TODO: Make this a real put that adds the job onto a retry queue

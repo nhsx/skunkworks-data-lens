@@ -1,6 +1,6 @@
 # DataLens-Semantic
 
-Project for document vectorisation and semantic querying of NHSx datasets
+Project for document vectorisation and semantic querying of NHSX datasets
 
 ## Requirements
 
