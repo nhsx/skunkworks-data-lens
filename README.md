@@ -1,3 +1,5 @@
+[![MIT License](https://img.shields.io/badge/License-MIT-lightgray.svg)](LICENSE)
+
 # [NHS AI Lab Skunkworks’ project: Data Lens](https://www.nhsx.nhs.uk/ai-lab/explore-all-resources/develop-ai/data-lens-a-fast-access-data-search-in-multiple-languages/)
 
 > A pilot project for the NHS AI Lab Skunkworks team, Data Lens brings together information about multiple databases, providing a fast-access search in multiple languages
@@ -5,6 +7,14 @@
 As the successful candidate from a Dragons’ Den-style project pitch, Data Lens was first picked as a pilot project for the NHS AI (Artificial Intelligence) Lab Skunkworks team in September 2020.
 
 The pitch outlined a common data problem for analysts and researchers across the UK: large volumes of data held on numerous incompatible databases in different organisations. The team wanted to be able to quickly source relevant information with one search engine.
+
+## Intended Purpose
+
+This proof of concept ([TRL 4](https://en.wikipedia.org/wiki/Technology_readiness_level)) is intended to demonstrate the technical validity of applying Natural Language Processing to a range of NHS datasets in order to provide intelligent search functionality. It is not intended for deployment in a clinical or non-clinical setting without further development and compliance with the [UK Medical Device Regulations 2002](https://www.legislation.gov.uk/uksi/2002/618/contents/made) where the product qualifies as a medical device.
+
+## Data Protection
+
+This project was subject to a Data Protection Impact Assessment (DPIA), ensuring the protection of the data used in line with the [UK Data Protection Act 2018](https://www.legislation.gov.uk/ukpga/2018/12/contents/enacted) and [UK GDPR](https://ico.org.uk/for-organisations/dp-at-the-end-of-the-transition-period/data-protection-and-the-eu-in-detail/the-uk-gdpr/). No data or trained models are shared in this repository.
 
 ## How Data Lens works
 Using Natural Language Processing (NLP) and other AI technologies, the Data Lens project is creating a universal search engine for health and social care data catalogues and metadata. By providing user friendly access to previously time consuming separate data catalogues, Data Lens aims to:
