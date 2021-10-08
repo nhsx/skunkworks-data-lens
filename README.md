@@ -1,4 +1,5 @@
-[![MIT License](https://img.shields.io/badge/License-MIT-lightgray.svg)](LICENSE)
+[![MIT License](https://img.shields.io/badge/License-MIT-lightgray.svg)](LICENSE) [![status: hibernate](https://github.com/GIScience/badges/raw/master/status/hibernate.svg)](https://github.com/GIScience/badges#hibernate)
+
 
 # [NHS AI Lab Skunkworks’ project: Data Lens](https://www.nhsx.nhs.uk/ai-lab/explore-all-resources/develop-ai/data-lens-a-fast-access-data-search-in-multiple-languages/)
 
