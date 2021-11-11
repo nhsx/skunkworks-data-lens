@@ -33,7 +33,7 @@
     "vue-simple-tooltip": "^1.0.12",
     "vue-slick-carousel": "^1.0.6",
     "vue-sliding-pagination": "^1.1.2",
-    "xlsx": "^0.16.9"
+    "xlsx": "^0.17.0"
   },
   "devDependencies": {
     "@babel/parser": "^7.11.5",
